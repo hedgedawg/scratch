@@ -1,8 +1,3 @@
-user0 = ["/start.html", "/pink.php", "/register.asp", "/orange.html", "/red.html"]
-user1 = ["/start.html", "/green.html", "/blue.html", "/pink.php", "/register.asp", "/orange.html"]
-user2 = ["/red.html", "/green.html", "/blue.html", "/pink.php", "/register.asp"]
-user3 = ["/blue.html", "/logout.php"]
-
 """
 
 We have some clickstream data that we gathered on our client's website. 
